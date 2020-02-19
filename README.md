@@ -1,3 +1,9 @@
+# Playing around to validate this P.O.C
+
+>Finding a solution to work properly on **Safari**. After that the P.O.C is finished, will start working on final solutions.
+
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
